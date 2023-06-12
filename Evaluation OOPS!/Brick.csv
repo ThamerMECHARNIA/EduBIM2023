@@ -1,0 +1,14 @@
+Result;Cases;Severity
+Results for P02: Creating synonyms as classes.;115 cases;Minor
+Results for P04: Creating unconnected ontology elements. ;8 cases;Minor
+Results for P08: Missing annotations. ;126 cases;Minor
+Results for P11: Missing domain or range in properties. ;48 cases;Important
+Results for P13: Inverse relationships not explicitly declared. ;17 cases;Minor
+Results for P22: Using different naming conventions in the ontology. ;Ontology;Minor
+Results for P30: Equivalent classes not explicitly declared. ;3 cases;Important
+Results for P31: Defining wrong equivalent classes. ;6 cases;Critical
+Results for P34: Untyped class. ;12 cases;Important
+Results for P35: Untyped property. ;54 cases;Important
+Results for P36: URI contains file extension. ;Ontology;Minor
+Results for P40: Namespace hijacking. ;4 cases;Critical
+SUGGESTION: symmetric or transitive object properties.;2 cases;

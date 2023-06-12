@@ -1,0 +1,5 @@
+Result;Cases;Severity
+Results for P11: Missing domain or range in properties.;11 cases;Important
+Results for P13: Inverse relationships not explicitly declared.;15 cases;Minor
+Results for P24: Using recursive definitions.;1 case;Important
+SUGGESTION: symmetric or transitive object properties.;2 cases;

@@ -1,0 +1,9 @@
+Result;Cases;Severity
+Results for P04: Creating unconnected ontology elements.;3 cases;Minor
+Results for P08: Missing annotations.;3 cases;Minor
+Results for P10: Missing disjointness.;Ontology;Important
+Results for P11: Missing domain or range in properties.;38 cases;Important
+Results for P13: Inverse relationships not explicitly declared.;3 cases;Minor
+Results for P24: Using recursive definitions.;1 case;Important
+Results for P30: Equivalent classes not explicitly declared.;2 cases;Important
+Results for P38: No OWL ontology declaration.;Ontology;Important

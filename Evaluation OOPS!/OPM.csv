@@ -1,0 +1,5 @@
+Result;Cases;Severity
+Results for P04: Creating unconnected ontology elements.;10 cases;Minor
+Results for P08: Missing annotations.;10 cases;Minor
+Results for P11: Missing domain or range in properties.;8 cases;Important
+Results for P13: Inverse relationships not explicitly declared.;8 cases;Minor

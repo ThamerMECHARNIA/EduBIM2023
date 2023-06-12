@@ -1,0 +1,14 @@
+Result;Cases;Severity
+Results for P05: Defining wrong inverse relationships. ;1 case;Critical
+Results for P08: Missing annotations. ;5 cases;Minor
+Results for P11: Missing domain or range in properties. ;82 cases;Important
+Results for P12: Equivalent properties not explicitly declared. ;2 cases;Important
+Results for P13: Inverse relationships not explicitly declared. ;121 cases;Minor
+Results for P22: Using different naming conventions in the ontology. ;Ontology;Minor
+Results for P24: Using recursive definitions. ;17 cases;Important
+Results for P29: Defining wrong transitive relationships. ;2 cases;Critical
+Results for P30: Equivalent classes not explicitly declared. ;1 case;Important
+Results for P31: Defining wrong equivalent classes. ;1 case;Critical
+Results for P35: Untyped property. ;7 cases;Important
+Results for P36: URI contains file extension. ;Ontology;Minor
+SUGGESTION: symmetric or transitive object properties.;29 cases;

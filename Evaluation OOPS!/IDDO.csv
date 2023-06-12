@@ -1,0 +1,12 @@
+Result;Cases;Severity
+Results for P08: Missing annotations.;5 cases;Minor
+Results for P10: Missing disjointness.;Ontology;Important
+Results for P11: Missing domain or range in properties.;3 cases;Important
+Results for P13: Inverse relationships not explicitly declared.;29 cases;Minor
+Results for P19: Defining multiple domains or ranges in properties.;19 cases;Critical
+Results for P20: Misusing ontology annotations.;2 cases;Minor
+Results for P22: Using different naming conventions in the ontology.;Ontology;Minor
+Results for P34: Untyped class.;11 cases;Important
+Results for P35: Untyped property.;2 cases;Important
+Results for P36: URI contains file extension.;Ontology;Minor
+SUGGESTION: symmetric or transitive object properties.;7 cases;

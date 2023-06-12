@@ -1,0 +1,7 @@
+Result;Cases;Severity
+Results for P04: Creating unconnected ontology elements.;1 case;Minor
+Results for P08: Missing annotations. ;6 cases;Minor
+Results for P11: Missing domain or range in properties. ;10 cases;Important
+Results for P13: Inverse relationships not explicitly declared. ;19 cases;Minor
+Results for P36: URI contains file extension. ;Ontology;Minor
+SUGGESTION: symmetric or transitive object properties.;5 cases;

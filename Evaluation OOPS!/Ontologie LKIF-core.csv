@@ -1,0 +1,14 @@
+Result;Cases;Severity
+Results for P02: Creating synonyms as classes.;4 cases;Minor
+Results for P04: Creating unconnected ontology elements.;8 cases;Minor
+Results for P07: Merging different concepts in the same class.;1 case;Minor
+Results for P08: Missing annotations.;247 cases;Minor
+Results for P11: Missing domain or range in properties.;96 cases;Important
+Results for P12: Equivalent properties not explicitly declared.;1 case;Important
+Results for P13: Inverse relationships not explicitly declared.;14 cases;Minor
+Results for P24: Using recursive definitions.;9 cases;Important
+Results for P25: Defining a relationship as inverse to itself.;9 cases;Important
+Results for P26: Defining inverse relationships for a symmetric one. ;9 cases;Important
+Results for P30: Equivalent classes not explicitly declared. ;9 cases;Important
+Results for P31: Defining wrong equivalent classes. ;2 cases;Critical
+Results for P41: No license declared. ;Ontology;Important

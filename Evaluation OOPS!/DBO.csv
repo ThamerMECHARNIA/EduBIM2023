@@ -1,0 +1,8 @@
+Result;Cases;Severity
+Results for P04: Creating unconnected ontology elements.;9 cases;Minor
+Results for P08: Missing annotations.;412 cases;Minor
+Results for P11: Missing domain or range in properties.;7 cases;Important
+Results for P13: Inverse relationships not explicitly declared.;6 cases;Minor
+Results for P22: Using different naming conventions in the ontology.;Ontology;Minor
+Results for P30: Equivalent classes not explicitly declared.;11 cases;Important
+Results for P40: Namespace hijacking.;1 case;Critical

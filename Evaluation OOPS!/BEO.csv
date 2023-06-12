@@ -1,0 +1,9 @@
+Result;Cases;Severity
+Results for P04: Creating unconnected ontology elements.;4 cases;Minor
+Results for P08: Missing annotations.;5 cases;Minor
+Results for P10: Missing disjointness.;Ontology;Important
+Results for P11: Missing domain or range in properties.;1 case;Important
+Results for P20: Misusing ontology annotations.;59 cases;Minor
+Results for P22: Using different naming conventions in the ontology.;Ontology;Minor
+Results for P30: Equivalent classes not explicitly declared.;4 cases;Important
+Results for P32: Several classes with the same label.;11 cases;Minor

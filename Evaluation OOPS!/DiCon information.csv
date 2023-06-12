@@ -1,0 +1,15 @@
+Result;Cases;Severity
+Results for P02: Creating synonyms as classes. ;1 case;Minor
+Results for P05: Defining wrong inverse relationships. ;3 cases;Critical
+Results for P08: Missing annotations. ;17 cases;Minor
+Results for P11: Missing domain or range in properties. ;33 cases;Important
+Results for P12: Equivalent properties not explicitly declared. ;4 cases;Important
+Results for P13: Inverse relationships not explicitly declared. ;157 cases;Minor
+Results for P24: Using recursive definitions. ;18 cases;Important
+Results for P25: Defining a relationship as inverse to itself. ;1 case;Important
+Results for P29: Defining wrong transitive relationships. ;2 cases;Critical
+Results for P30: Equivalent classes not explicitly declared. ;4 cases;Important
+Results for P31: Defining wrong equivalent classes. ;1 case;Critical
+Results for P35: Untyped property. ;3 cases;Important
+Results for P36: URI contains file extension. ;Ontology;Minor
+SUGGESTION: symmetric or transitive object properties.;43 cases;

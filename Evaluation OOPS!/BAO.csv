@@ -1,0 +1,3 @@
+Result;Cases;Severity
+Results for P11: Missing domain or range in properties.;8 cases;Important
+Results for P30: Equivalent classes not explicitly declared.;1 case;Important
