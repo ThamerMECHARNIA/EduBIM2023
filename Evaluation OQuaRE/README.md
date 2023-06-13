@@ -1,0 +1,3 @@
+# Evaluation [OQuaRE](https://github.com/giulianodelagala/CURIOCITY/tree/master/Evaluation/OquaRE)
+
+Dans ce répertoire, vous trouverez les résultats de la méthodologie OQuaRE, qui est une adaptation de l'évaluation SQuaRE (*Software product Quality Requirements and Evaluation*) aux ontologies. OQuaRE combine différentes métriques élémentaires pour évaluer des aspects tels que l’opérabilité, la fiabilité, la compatibilité, la transférabilité, l’adéquation fonctionnelle, la solidité structurelle, et la maintenabilité. Ces résultats sont présentés pour chaque ontologie dans deux formats : *CSV* et *PNG*.

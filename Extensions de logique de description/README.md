@@ -1,0 +1,3 @@
+# Métriques d’Evaluation de [BioPortal](https://www.bioontology.org/wiki/Ontology_Metrics)
+
+La comparaison des ontologies en fonction de leurs extensions de logique de description (DL) est effectuée à l'aide de la méthode [DLExpressivityChecker](http://owlcs.github.io/owlapi/apidocs_3/org/semanticweb/owlapi/util/DLExpressivityChecker.Construct.html) de la bibliothèque Java OWLAPI. L'objectif est de déterminer les extensions de DL prises en charge par chaque ontologie. Les résultats sont présentés dans le fichier *./Ontologies DL.xlsx*.
