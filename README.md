@@ -5,7 +5,7 @@ Ce répertoire contient les résultats présentés dans l'article intitulé "Ét
 - L'évaluation "OOPS!" (OntOlogy Pitfall Scanner!) disponible à l'adresse suivante : [https://oops.linkeddata.es/](https://oops.linkeddata.es/)
 - L'évaluation "OQuaRE" accessible sur GitHub : [https://github.com/giulianodelagala/CURIOCITY/tree/master/Evaluation/OquaRE](https://github.com/giulianodelagala/CURIOCITY/tree/master/Evaluation/OquaRE)
 - L'évaluation "o'FAIRe" basée sur les principes FAIR (Findable, Accessible, Interoperable, Reusable) : [https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/)
-- Les extensions du langage de description "DLExpressivityChecker" pour évaluer la complexité logique des ontologies : [http://owlcs.github.io/owlapi/apidocs_3/org/semanticweb/owlapi/util/DLExpressivityChecker.Construct.html](http://owlcs.github.io/owlapi/apidocs_3/org/semanticweb/owlapi/util/DLExpressivityChecker.Construct.html)
+- Les extensions du langage de description "DLExpressivityChecker" pour évaluer la complexité logique des ontologies : [http://owlcs.github.io/owlapi/apidocs_3/org/semanticweb/owlapi/util/DLExpressivityChecker.Construct.html](http://owlcs.github.io/owlapi/apidocs_3/org/semanticweb/owlapi/util/DLExpressivityChecker.Construct.html). Les characterisation du DL sont dans [DL-characterisation.xlsx](https://github.com/ThamerMECHARNIA/EduBIM2023/blob/main/DL-characterisation.xlsx)
 - Les métriques d'évaluation de l'ontologie fournies par BioPortal : [https://www.bioontology.org/wiki/Ontology_Metrics](https://www.bioontology.org/wiki/Ontology_Metrics)
 
 
